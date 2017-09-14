@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndicatorView">
+        <attr name="bgcolor" format="reference" />
+        <attr name="barcolor" format="reference" />
+        <attr name="bgwidth" format="integer" />
+        <attr name="barwidth" format="integer" />
+    </declare-styleable>
+
+</resources>
